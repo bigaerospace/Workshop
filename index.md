@@ -144,6 +144,6 @@ Dec 15-18, 2021: Workshops
 
  
 
-                                          ©2021 by Workshop on Big Data analytics in Aerospace Domain
+   ©2021 by Workshop on Big Data analytics in Aerospace Domain
 
 
