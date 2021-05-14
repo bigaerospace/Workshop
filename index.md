@@ -94,12 +94,8 @@ Dec 15-18, 2021: Workshops
 
 1. Rituparna Datta, Independent Researcher
 
-
-
    Email: rituparndatta@gmail.com
-
-
-
+   
 2. Debiprosad Roy Mahapatra, Indian Institute of Science
 
 
@@ -148,6 +144,6 @@ Dec 15-18, 2021: Workshops
 
  
 
-©2021 by Workshop on Big Data analytics in Aerospace Domain
+                                          ©2021 by Workshop on Big Data analytics in Aerospace Domain
 
 
