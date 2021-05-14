@@ -96,7 +96,7 @@ Dec 15-18, 2021: Workshops
 
 
 
-Email: rituparndatta@gmail.com
+   Email: rituparndatta@gmail.com
 
 
 
@@ -104,7 +104,7 @@ Email: rituparndatta@gmail.com
 
 
 
-Email: roymahapatra@iisc.ac.in
+   Email: roymahapatra@iisc.ac.in
 
  
 
@@ -136,7 +136,7 @@ Email: roymahapatra@iisc.ac.in
 
 
 
-7. Subha Saha, 
+7. Subha Saha, L3 Communications 
 
 
 
